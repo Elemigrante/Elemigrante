@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elemigrante&show_icons=true&theme=discord_old_blurple&hide_border=true&card_width=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elemigrante&show_icons=true&theme=discord_old_blurple&hide_border=true&card_width=300)
 <!--
 **Elemigrante/Elemigrante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
